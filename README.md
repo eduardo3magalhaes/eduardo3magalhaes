@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40px"> 𝐇𝐞𝐥𝐥𝐨, Devs!  <img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80px"> 
+<h1 align="center"><img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40px"> 𝐇𝐞𝐥𝐥𝐨, Devs!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80px"> 
  
  <br>
  
