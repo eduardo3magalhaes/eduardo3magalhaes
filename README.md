@@ -86,10 +86,7 @@ I want  <b>to learn and Improve always</b>
   <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
   <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
     <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
- <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
-  <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
-    <img src="https://media.giphy.com/media/H4uE6w9G1uK4M/giphy.gif" width="30" height="30"/>
+
  
   
   
