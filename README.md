@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40px"> 𝐇𝐞𝐥𝐥𝐨, Devs!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80px"> 
+<h1 align="center"><img src="https://media.giphy.com/media/FAFo1M7EC4gRZ4HETH/giphy.gif" width="40px"> Olá Pessoal!<img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="80px"> 
  
  <br>
  
@@ -7,7 +7,7 @@
 
  <p align="center">
   <em>
-  This is ME, Eduardo Magalhães, graduate in <b>Electrician Engineering</b>.
+  This is me, Eduardo Magalhães, graduate in <b>Electrician Engineering</b>.
      <b> </b> <img src="https://media.giphy.com/media/9xt1MUZqkneFiWrAAD/giphy.gif" width="30px">&nbsp
    
    <br>
